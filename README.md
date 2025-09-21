@@ -1,2 +1,2 @@
 # NUMI-MATH_CHATBOT
-A smart math chatbot that helps users solve equations, plot graphs, and practice problems interactively. It can generate questions, explain solutions step by step, and visualize concepts with graphs to make learning math easier and more fun.!
+Meet your math buddy! This chatbot can solve equations, plot cool graphs, and even quiz you with practice questions. Whether you’re stuck on a problem or just want to explore math in a fun way, it’s here to guide you step by step.
